@@ -1,0 +1,8 @@
+[[Law]]
+[[Society]]
+[[Politics]]
+[[Government]]
+[[Investments]]
+[[Different Payments]]
+[[Finance]]
+[[Consumer Decisions]]

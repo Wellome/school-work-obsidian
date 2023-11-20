@@ -1,0 +1,6 @@
+[[Gamma Rays]]
+[[Radio Waves]]
+[[Microwaves]]
+[[Infrared]]
+[[Ultraviolet]]
+[[X-rays]]
