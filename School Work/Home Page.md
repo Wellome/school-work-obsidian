@@ -1,3 +1,4 @@
+Non-electives:
 [[English]]
 [[Math]]
 [[Science]]
@@ -8,4 +9,3 @@ Electives:
 [[History Elective]]
 [[Japanese]]
 [[Commerce]] (2023)
-[[IST]] (2024)
